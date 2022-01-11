@@ -1,4 +1,5 @@
 {
   "name" : "Dirt",
-  "blastResistance" : 4
+  "blastResistance" : 4,
+  "craftingRecipes" : ["gravel"] 
 }
